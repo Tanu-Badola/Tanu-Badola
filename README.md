@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tanu-Badola
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning or pursuing BCA
+- 🌱 I’m currently working in MNC
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tbadola2@gmail.com
 
